@@ -22,12 +22,14 @@ Pendiente (editar en cada plataforma, requiere login de admin):
   Decidido el 14 de octubre no añadir el enlace a la web.
 - [x] **Spotify for Artists**: añadir enlaces sociales (Instagram, YouTube). Hecho el 14 de octubre.
 - [x] **Linktree**: el botón "Web" ya apunta a `https://` (hecho el 10 de noviembre).
-- [ ] **Search Console** (cuenta de Google `/u/2/` del Chrome, infolaligamusica@gmail.com):
+- [x] **Search Console** (cuenta de Google `/u/2/` del Chrome, infolaligamusica@gmail.com):
   el 11 de noviembre la web se mudó a **https://laliga-ruralpride.github.io/**
   (antes `/La-Liga-Rural-Pride/`, que ya da 404). Ese día se añadió la propiedad nueva
   (verificada sola con la etiqueta meta), se envió `sitemap.xml` y se pidió indexar la portada.
-  **Revisar hacia el 14-18 de noviembre** que el sitemap pase a "Correcto" y que la
-  portada nueva salga en Google al buscar "la liga rural pride".
+  Revisado el 16 de noviembre: 2 páginas indexadas, 0 errores. Del 10 al 14 de noviembre,
+  "la liga rural pride" dio 7 impresiones y 4 clics (posición media 5,1).
+  El sitemap sigue en "No se ha podido obtener", pero el archivo está bien (200, XML válido,
+  enlazado en robots.txt). Al ser una web de una sola página no afecta: se deja así.
 - [x] **Cambiar enlaces a la web nueva**: Instagram, Linktree, YouTube, Spotify y
   portfolio (hecho el 11 de noviembre).
 - [x] **Quitar el sitemap antiguo** (`/La-Liga-Rural-Pride/sitemap.xml`) de Search Console
@@ -36,5 +38,5 @@ Pendiente (editar en cada plataforma, requiere login de admin):
 ## Mantenimiento
 
 - [x] **Migrar de Create React App a Vite** (hecho el 11 de noviembre).
-- [ ] (Opcional) Valorar perfiles en Bandcamp / Apple Music para reforzar
-  la identidad de banda.
+- ~~(Opcional) Valorar perfiles en Bandcamp / Apple Music~~: descartado de momento
+  (16 de noviembre).
